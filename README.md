@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan Mukherjee</h1>
-<h3 align="center">Anpairing Full-Stack Web Developer. An Tech Entusiast of Machine Learning & Artificial Intelligence</h3>
+<h3 align="center">Aspairing Full-Stack Web Developer. An Tech Entusiast of Machine Learning & Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanm456&label=Profile%20views&color=0e75b6&style=flat" alt="sayanm456" /> </p>
 
