@@ -43,3 +43,7 @@
 
 ![Sayan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayanm&theme=radical)
 ![Sayan's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sayanm&show_icons=true&theme=radical)
+
+![Sayan's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sayanm&show_icons=true&theme=radical)
+
+![Sayan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayanm&theme=radical)
