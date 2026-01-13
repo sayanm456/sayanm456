@@ -36,6 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayanm456&show_icons=true&locale=en" alt="sayanm456" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanm456&" alt="sayanm456" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanm456" alt="sayanm456" /></p>
 
 [![GitHub Streak](github-readme-streak-stats.herokuapp.com)](git.io)
