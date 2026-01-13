@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanm456" alt="sayanm456" /></p>
 
-[![GitHub Streak](github-readme-streak-stats.herokuapp.com)](git.io)
+![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanm&show_icons=true&theme=radical)
