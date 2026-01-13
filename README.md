@@ -43,3 +43,4 @@
 
   <img src="https://streak-stats.demolab.com/?user=sayanm&theme=radical" alt="Sayan's GitHub Streak" />
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sayanm456)](https://git.io/streak-stats)
