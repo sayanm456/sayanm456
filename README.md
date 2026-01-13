@@ -39,4 +39,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanm456&cache_seconds=1800" alt="sayanm456" /></p>
 
-![My GitHub Metrics](https://raw.githubusercontent.com/sayanm456/sayanm456/main/github-metrics.svg)
+![My GitHub Metrics](https://raw.githubusercontent.com/sayanm456/sayanm456/blob/master/github-metrics.svg)
+https://github.com/sayanm456/sayanm456/blob/master/github-metrics.svg
+![Metrics Method 1](github-metrics.svg)
+
+![Metrics Method 2](https://raw.githubusercontent.com/sayanm/sayanm/main/github-metrics.svg)
+
+![Metrics Method 3](https://github-readme-stats.vercel.app/api?username=sayanm&show_icons=true&theme=radical)
