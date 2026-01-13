@@ -46,7 +46,7 @@
   <img src="https://streak-stats.demolab.com/?user=sayanm456&theme=radical" />
 </p>
 
-![My GitHub Metrics](https://raw.githubusercontent.com/sayanm/sayanm/master/github-metrics.svg)
+![My GitHub Metrics](https://raw.githubusercontent.com/sayanm/sayanm/b;ob/master/github-metrics.svg)
 
 ![Sayan's Stats](https://github-readme-stats.vercel.app/api?username=sayanm&show_icons=true&theme=radical)
 
