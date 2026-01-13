@@ -39,3 +39,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanm456&cache_seconds=1800" alt="sayanm456" /></p>
 
 ![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanm&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Sayan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayanm&theme=radical)
