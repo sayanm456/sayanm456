@@ -46,10 +46,11 @@
   <img src="https://streak-stats.demolab.com/?user=sayanm456&theme=radical" />
 </p>
 
-![My GitHub Metrics](https://raw.githubusercontent.com/sayanm/sayanm/b;ob/master/github-metrics.svg)
+![My GitHub Metrics](https://raw.githubusercontent.com/sayanm/sayanm/blob/master/github-metrics.svg)
 
 ![Sayan's Stats](https://github-readme-stats.vercel.app/api?username=sayanm&show_icons=true&theme=radical)
 
 ![Sayan's Streak](https://streak-stats.demolab.com/?user=sayanm&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayanm&theme=tokyonight)
+https://raw.githubusercontent.com/sayanm/sayanm/main/github-metrics.svg
