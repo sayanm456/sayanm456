@@ -41,4 +41,6 @@
 ![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanm&show_icons=true&theme=radical&cache_seconds=1800)
 
 ![Sayan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayanm&theme=radical) -->
-![My GitHub Metrics](https://github.com/sayanm/sayanm/blob/master/github-metrics.svg)
+![Sayan's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sayanm&show_icons=true&theme=radical)
+
+![Sayan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayanm&theme=radical)
