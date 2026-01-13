@@ -46,3 +46,8 @@ https://github.com/sayanm456/sayanm456/blob/master/github-metrics.svg
 ![Metrics Method 2](https://raw.githubusercontent.com/sayanm/sayanm/main/github-metrics.svg)
 
 ![Metrics Method 3](https://github-readme-stats.vercel.app/api?username=sayanm&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayanm&show_icons=true&theme=radical&count_private=true" alt="Sayan Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=sayanm&theme=radical" alt="Sayan Streak" />
+</div>
