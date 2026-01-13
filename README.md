@@ -40,3 +40,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanm456&cache_seconds=1800" alt="sayanm456" /></p>
 
 ![My GitHub Metrics](https://github.com/sayanm/sayanm/blob/master/github-metrics.svg)
+
+# My GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayanm&theme=radical&hide_border=true)
