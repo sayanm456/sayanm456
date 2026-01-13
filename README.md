@@ -35,7 +35,13 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanm456&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="sayanm456" /></p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayanm&show_icons=true&theme=radical&count_private=true" alt="Sayan Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayanm456&show_icons=true&theme=radical&count_private=true" alt="Sayan Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=sayanm&theme=radical" alt="Sayan Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sayanm456&theme=radical" alt="Sayan Streak" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayanm456&show_icons=true&theme=radical&count_private=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=sayanm456&theme=radical" />
+</p>
