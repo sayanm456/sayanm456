@@ -14,7 +14,7 @@
 
 - 📝 My LinkedIn Profile [www.linkedin.com/in/sayanmukherjee15a14a171](www.linkedin.com/in/sayanmukherjee15a14a171)
 
-- 💬 Ask me about **Machine Learning-Artificial Intelligence and full Stack Real-World-based Cyber-Physical System Development**
+- 💬 Ask me about **Machine Learning-Artificial Intelligence and Full Stack Real-World-based Cyber-Physical System Development**
 
 - 📫 How to reach me: **sayanm2345@gmail.com**
 
