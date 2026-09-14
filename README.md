@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Sayan Mukherjee</h1>
-<h3 align="center">Aspairing Full-Stack Web Developer. An Tech Entusiast of Machine Learning & Artificial Intelligence</h3>
+<h3 align="center">Aspairing Full-Stack Web Developer. An Tech Entusiast of ML_AI and Web3-Blockchain Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanm456&label=Profile%20views&color=0e75b6&style=flat" alt="sayanm456" /> </p>
 
-- 🔭 I’m currently working on [ProWork](https://github.com/sayanm456/taskmanagerapp)
 
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🔭 I’m currently working on solving real-world software solutions and Cyber-Physical Systems
+- 🌱 I’m currently learning **Core and Application oriented Blockacahain Development**
 
-- 👯 I’m looking to collaborate on **open-source collaboration**
+- 👯 I’m looking to collaborate on **open-source projects and collaborations**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/sayanm456](https://www.github.com/sayanm456)
 
 - 📝 My LinkedIn Profile [www.linkedin.com/in/sayanmukherjee15a14a171](www.linkedin.com/in/sayanmukherjee15a14a171)
 
-- 💬 Ask me about **React, Django and Node.js**
+- 💬 Ask me about **Machine Learning-Artificial Intelligence and full Stack Real-World-based Cyber-Physical System Development **
 
-- 📫 How to reach me **sayanm2345@gmail.com**
+- 📫 How to reach me: **sayanm2345@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1IuqqyaxMaW9dQt_I4M0agJP1T5Ui2bpPCQewIpxGDf0/edit?tab=t.0#heading=h.x8fm1uorkbaw](https://docs.google.com/document/d/1IuqqyaxMaW9dQt_I4M0agJP1T5Ui2bpPCQewIpxGDf0/edit?tab=t.0#heading=h.x8fm1uorkbaw)
 
-- ⚡ Real fact **I think I am a Smart Learner**
+- ⚡ Real fact: **I am Smart Software Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
